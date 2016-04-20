@@ -1,1 +1,12 @@
 *.ipynb_checkpoints
+PresentacionCorta/*.log
+#*.pdf
+PresentacionCorta/*.aux
+PresentacionCorta/*.backup
+PresentacionCorta/*.out
+PresentacionCorta/*.bcf
+PresentacionCorta/*.dvi
+PresentacionCorta/*.xml
+PresentacionCorta/*.bbl
+PresentacionCorta/*.blg
+
