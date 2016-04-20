@@ -9,4 +9,6 @@ PresentacionCorta/*.dvi
 PresentacionCorta/*.xml
 PresentacionCorta/*.bbl
 PresentacionCorta/*.blg
-
+PresentacionCorta/*.snm
+PresentacionCorta/*.nav
+PresentacionCorta/*.toc
