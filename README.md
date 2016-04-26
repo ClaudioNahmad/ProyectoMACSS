@@ -12,7 +12,7 @@ You will find in the [PresentacionCorta](https://github.com/FavioVazquez/Proyect
 directory the TEX and PDF for our first short presentation. 
 
 The notebook for our [final presentation](https://github.com/FavioVazquez/ProyectoMACSS/blob/master/Final%20Presentation.ipynb)
-uses CAMB so if you want to run it be sure that you have it installed. This is theofficial repo for PyCamb 
+uses CAMB so if you want to run it be sure that you have it installed. This is the official repo for PyCamb 
 https://github.com/cmbant/CAMB.
 
 
